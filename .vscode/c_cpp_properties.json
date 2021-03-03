@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/chlee/xycar_ws/devel/include/**",
+        "/opt/ros/kinetic/include/**",
+        "/home/chlee/xycar_ws/src/darknet_ros/darknet_ros/include/**",
+        "/home/chlee/xycar_ws/src/ex_urdf/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
